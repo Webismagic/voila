@@ -1,9 +1,13 @@
 numpy
+pandas
 scipy
 bokeh
 bqplot
 matplotlib
-ipywidgets
+ipywidgets>=7.0.0, <8.0
 ipympl
 ipyvolume
 voila
+traitlets>=4.3.0, <5.0
+traittypes>=0.2.1, <0.3
+
