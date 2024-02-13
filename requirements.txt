@@ -1,0 +1,6 @@
+numpy
+scipy
+bokeh
+bqplot
+matplotlib
+ipywidgets
